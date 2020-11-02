@@ -21,7 +21,7 @@
     "karma-qunit": "^4.1.1",
     "lerna": "^2.11.0",
     "mime": "^2.4.6",
-    "node-sass": "^4.14.1",
+    "node-sass": "^5.0.0",
     "nunjucks": "^3.2.2",
     "pastshots": "^1.5.2",
     "postcss": "^8.0.3",
